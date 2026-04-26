@@ -52,11 +52,11 @@ EarthquakeInformation/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/EarthquakeInformation-main.git
+git clone https://github.com/isairey/Sistema-de-Sismos.git
 ```
 Acceder al proyecto:
 ```
-cd EarthquakeInformation-main
+cd Sistema-de-Sismos
 ```
 Abrir en el navegador:
 ```
